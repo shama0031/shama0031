@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Java<br>
+I am currently learning Android<br>
 
 
 ## 🌐 Socials:
